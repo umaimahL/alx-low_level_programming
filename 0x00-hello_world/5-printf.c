@@ -2,7 +2,9 @@
 /**
  * main - prints a text
  *
- * return:Always 0(successful)
+ * Description: hello, world in c
+ *
+ * Return: Always 0(successful)
  */
 int main(void)
 {
