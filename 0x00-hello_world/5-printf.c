@@ -2,10 +2,10 @@
 /**
  * main - prints a text
  *
- * return: Always 0(successful)
+ * return:Always 0(successful)
  */
 int main(void)
 {
-	printf("with proper grammer, but the outcome is a piece of art,\n");
+	printf("with proper grammar, but the outcome is a piece of art,\n");
 	return (0);
 }
